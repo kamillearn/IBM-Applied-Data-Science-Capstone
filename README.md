@@ -2,22 +2,20 @@
 
 ![This is an image](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/Intro.jpg)
 
-
-
-
 ### Introduction
 
-In this capstone, we will predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
+SpaceX is a revolutionary company who has disrupt the space industry by offering a rocket launches specifically Falcon 9 as low as 62 million dollars; while other providers cost upward of 165 million dollar each. Most of this saving thanks to SpaceX astounding idea to reuse the first stage of the launch by re-land the rocket to be used on the next mission. Repeating this process will make the price down even further. As a data scientist of a startup rivaling SpaceX, the goal of this project is to create the machine learning pipeline to predict the landing outcome of the first stage in the future. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
-This capstone project course gave me a taste of what data scientists go through in real life when working with real datasets. I assumed the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process following the Data Science methodology involving [data collection](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/Spacex%20Data%20Collection%20Api.ipynb), [data wrangling](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/Spacex%20Data%20Wrangling.ipynb), [exploratory data analysis](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/EDA%20with%20SQL.ipynb), [data visualization](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/EDA%20with%20Data%20Visualization.ipynb), [model development](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/Machine%20Learning%20Prediction%20Part%205.ipynb), [model evaluation](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/Machine%20Learning%20Prediction%20Part%205.ipynb), and [reporting](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/Applied%20Data%20Science%20Capstone%20PowerPoint%20Presentation.pdf) your results to stakeholders. You are tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully.
+This capstone project course gave me a taste of what data scientists go through in real life when working with real datasets. I assumed the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process following the Data Science methodology involving:
 
-### Business Problem
-SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if you can accurately predict the likelihood of the first stage rocket landing successfully, you can determine the cost of a launch. With the help of your Data Science findings and models, the competing startup you have been hired by can make more informed bids against SpaceX for a rocket launch.
+### Table of Contents
 
-### Objective
-- To apply data science toolkit and machine learning in order to accurately predict the likelihood of the first stage rocket landing successfully, and thus determine the cost of a launch.
-- Explore the data in order to obtain more insight from the data.
-
-### Deliverables
-- Accurate predictive algorithms
-- Business case report to stakeholders
+1. [Data Collection with API](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/Spacex%20Data%20Collection%20Api.ipynb)
+2. [Data Collection with Web Scraping](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/Data%20Collection%20with%20Web%20Scraping.ipynb)
+3. [Data Wrangling](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/Spacex%20Data%20Wrangling.ipynb)
+4. [Exploratory Data Analysis with SQL](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/EDA%20with%20SQL.ipynb)
+5. [Exploratory Data Analysis with Visulaization](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/EDA%20with%20Data%20Visualization.ipynb)
+6. [Interactive Visual Analytics with Folium](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/Interactive%20Visual%20Analytics%20with%20Folium.ipynb)
+7. [Dashboard Application (Code)](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/Spacex%20Dashboard%20App.ipynb)
+8. [Prediction using Machine Learning](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/Machine%20Learning%20Prediction%20Part%205.ipynb) 
+9. [Final Presentation (Slide) for Stakeholders](https://github.com/kamillearn/IBM-Applied-Data-Science-Capstone/blob/main/Applied%20Data%20Science%20Capstone%20PowerPoint%20Presentation.pdf)
